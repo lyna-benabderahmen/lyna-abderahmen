@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:lynabderahmen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="linkedin.com/in/lyna-ben-abderahmen-a80910341"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lyna-ben-abderahmen-a80910341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -15,10 +15,10 @@
 
 I'm a 3rd-year Applied Computer Science & AI student working at the intersection of **machine learning and security**. I like understanding how systems work, how they fail, and how to protect them. This summer I interned at **Enova Robotics**, building the AI anomaly-detection layer for an autonomous security robot.
 
-- Currently exploring: anomaly detection, AI-driven threat analysis, ROS2
+- Currently exploring: machine learning, big data, cloud, and AI-driven threat detection
 - Interested in: network security, cryptography, ethical hacking
-- Looking for: internships and projects in AI, robotics, or cybersecurity
-- Languages: Arabic (native), English, French, German
+- Looking for: internships and projects in AI or cybersecurity
+- Languages: Arabic (native), English, French, Turkish, German
 
 ---
 
