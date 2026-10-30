@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:lynabderahmen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/lyna-ben-abderahmen-a80910341/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B36RBdLdBTTuxiA%2FAf1rljA%3D%3D)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="linkedin.com/in/lyna-ben-abderahmen-a80910341"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
