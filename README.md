@@ -1,52 +1,94 @@
-# Hi, I'm Lyna Ben Abderahmen 
+<h1 align="center">Lyna Ben Abderahmen</h1>
+<p align="center">
+  <b>AI & Cybersecurity Engineering Student</b><br>
+  Applied Computer Science / AI @ Pristini School of AI · Sousse, Tunisia
+</p>
 
- 2nd Year Applied Computer Science & AI Student  
- Sousse, Tunisia | Pristini School of AI  
- Cybersecurity Enthusiast |  AI & Deep Learning Explorer  
-
----
-
-##  About Me
-
-I'm a passionate AI and software engineering student with hands-on experience 
-in machine learning, deep learning, and cybersecurity. I love building things 
-that solve real problems and continuously push myself to learn beyond the classroom.
+<p align="center">
+  <a href="mailto:lynabderahmen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-##  Tech Stack
+## About Me
+
+I'm a 2nd-year Applied Computer Science & AI student working at the intersection of **machine learning and security**. I like understanding how systems work, how they fail, and how to protect them. This summer I interned at **Enova Robotics**, building the AI anomaly-detection layer for an autonomous security robot.
+
+- 🔭 Currently exploring: anomaly detection, AI-driven threat analysis, ROS2
+- 🔐 Interested in: network security, cryptography, ethical hacking
+- 🎯 Looking for: internships and projects in AI, robotics, or cybersecurity
+- 🌍 Languages: Arabic (native), English, French, German
+
+---
+
+## Featured Work
+
+### 🤖 AI Anomaly Detection for the PGuard Security Robot
+*Summer Intern, Enova Robotics (Jul–Aug 2026)*
+
+A full ROS2 detection pipeline for an autonomous patrol robot:
+- Hybrid detection: rule-based checks, statistical analysis, cross-sensor fusion, and an **Isolation Forest** model
+- **Random Forest** predictive model that forecasts pre-failure conditions with probability scoring
+- Local **Phi-3 Mini (via Ollama)** that writes natural-language patrol reports, with no cloud AI needed
+- Real-time **Streamlit** dashboard with live sensor status, severity-based alerts, and multi-robot fleet monitoring
+
+`Python` `ROS2` `scikit-learn` `Ollama` `Streamlit` `YAML` `Linux`
+
+### 🛡️ Server Log Analyzer: Brute-Force Attack Detector
+Parses server logs, groups traffic by IP, and detects brute-force login attempts with a **sliding time-window algorithm**. Validated against simulated attacks from a local Flask server, and generates reports of flagged IPs, attack timelines, and credentials attempted.
+
+`Python` `Flask` `Regex` `Linux`
+
+### 🚁 Police Drone System
+Face detection with automatic police alerts.
+
+`Python` `AI`
+
+---
+
+## Tech Stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI, Robotics & Tools**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## Certifications
 
--  **Fundamentals of Deep Learning** — NVIDIA (February 2025)
--  **Building AI-Based Cybersecurity Pipelines** — NVIDIA (April 2025)
+| Certification | Issuer | Date |
+|---|---|---|
+| Building AI-Based Cybersecurity Pipelines | NVIDIA | Apr 2025 |
+| Fundamentals of Deep Learning | NVIDIA | Feb 2025 |
+| Neural Networks and Deep Learning | DeepLearning.AI (Coursera) | May 2026 |
+| Network Architecture Fundamentals | Cisco (Coursera) | May 2026 |
 
 ---
 
-## Projects
+## Leadership
 
-| Project | Description | Tech |
-|--------|-------------|------|
-|  Pilates Studio App | Console management system | C |
-|  Police Drone System | Face detection with police alerts | Python, AI |
-|  Pilates Studio Management System | Advanced OOP management system | C++ |
+**Co-Founder (Secretary & Marketing Manager), Pristini Junior Creation** (2025–2026): ran operations, events, and email/social media campaigns for a student junior enterprise.
 
 ---
 
 ## GitHub Stats
 
-![Lyna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leena-lyna&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lynabderahmen@gmail.com)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leena-lyna&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leena-lyna&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
