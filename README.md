@@ -78,7 +78,7 @@ Parses server logs, groups traffic by IP, and detects brute-force login attempts
 
 ## Leadership
 
-**Co-Founder (Secretary & Marketing Manager), Pristini Junior Entreprise** (2025–2026): ran operations, events, and email/social media campaigns for a student junior enterprise.
+**Co-Founder (Secretary & Marketing Manager), Pristini Junior Entreprise** (2025–2027): ran operations, events, and email/social media campaigns for a student junior enterprise.
 
 ---
 
